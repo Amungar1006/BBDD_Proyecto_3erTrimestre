@@ -1,0 +1,224 @@
+[
+  {
+    "ubicacion": "Recinto Ferial de Sevilla",
+    "ciudad": "Sevilla",
+    "direccion": "Avenida Alcalde Luis Uruñuela, 1",
+    "provincia": "Sevilla"
+  },
+  {
+    "ubicacion": "Pabellón ferial de Aracena",
+    "ciudad": "Aracena",
+    "direccion": "Calle del Agua, 45",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": " Auditorio de la Luna Mora",
+    "ciudad": "Guaro",
+    "direccion": "Calle Paredón, s/n",
+    "provincia": "Málaga"
+  },
+  {
+    "ubicacion": "Plaza de España de Granado",
+    "ciudad": "El Granado",
+    "direccion": "Plaza de España, s/n",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": "Calles de Almería",
+    "ciudad": "Almería",
+    "direccion": "Varias calles",
+    "provincia": "Almería"
+  },
+  {
+    "ubicacion": "Calles de Almáchar",
+    "ciudad": "Almáchar",
+    "direccion": "Varias calles",
+    "provincia": "Málaga"
+  },
+  {
+    "ubicacion": "Calles de Málaga",
+    "ciudad": "Málaga",
+    "direccion": "Varias calles",
+    "provincia": "Málaga"
+  },
+  {
+    "ubicacion": "Real Alcázar de Sevilla",
+    "ciudad": "Sevilla",
+    "direccion": "Patio de Banderas, s/n",
+    "provincia": "Sevilla"
+  },
+  {
+    "ubicacion": "Calles de Granada",
+    "ciudad": "Granada",
+    "direccion": "Varias calles",
+    "provincia": "Granada"
+  },
+  {
+    "ubicacion": "Real de la Calzada",
+    "ciudad": "Sanlúcar de Barrameda",
+    "direccion": "Calzada Duquesa Isabel y calles adyacentes",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Plaza de la Constitución de Torrox",
+    "ciudad": "Torrox",
+    "direccion": "Plaza de la Constitución, s/n",
+    "provincia": "Málaga"
+  },
+  {
+    "ubicacion": "Plaza de España de Palma del Condado",
+    "ciudad": "Palma del Condado",
+    "direccion": "Plaza de España, s/n",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": "Calles de Jaén",
+    "ciudad": "Jaén",
+    "direccion": "Varias calles",
+    "provincia": "Jaén"
+  },
+  {
+    "ubicacion": "Calles de Cádiz",
+    "ciudad": "Cádiz",
+    "direccion": "Varias calles",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Playa de la Caleta, Cádiz",
+    "ciudad": "Cádiz",
+    "direccion": "Paseo Fernando Quiñones, s/n",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Calles de Almonte",
+    "ciudad": "Almonte",
+    "direccion": "Varias calles",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": "Edificio Corral del Carbón",
+    "ciudad": "Granada",
+    "direccion": "Calle Mariana Pineda, s/n",
+    "provincia": "Granada"
+  },
+  {
+    "ubicacion": "Calles de Sevilla",
+    "ciudad": "Sevilla",
+    "direccion": "Varias calles",
+    "provincia": "Sevilla"
+  },
+  {
+    "ubicacion": "Recinto Colombino de Huelva",
+    "ciudad": "Huelva",
+    "direccion": "Av. Cristóbal Colón, s/n",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": "Calles de Córdoba",
+    "ciudad": "Córdoba",
+    "direccion": "Varias calles",
+    "provincia": "Córdoba"
+  },
+  {
+    "ubicacion": "Cinesur Nervión Plaza",
+    "ciudad": "Sevilla",
+    "direccion": "Calle Luis Montoto, s/n",
+    "provincia": "Sevilla"
+  },
+  {
+    "ubicacion": "Teatro Góngora de Córdoba",
+    "ciudad": "Córdoba",
+    "direccion": "Calle Jesús y María, 10",
+    "provincia": "Córdoba"
+  },
+  {
+    "ubicacion": "Gran Teatro Falla, Cádiz",
+    "ciudad": "Cádiz",
+    "direccion": "Plaza Fragela, s/n",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Playa de Sanlúcar de Barrameda",
+    "ciudad": "Sanlúcar de Barrameda",
+    "direccion": "Paseo Marítimo, s/n",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Santuario El Cerro del Cabezo",
+    "ciudad": "Alcalá la Real",
+    "direccion": "Carretera de Castillo de Locubín, km 6",
+    "provincia": "Jaén"
+  },
+  {
+    "ubicacion": "Corral de Comdedias Plaza Mayor",
+    "ciudad": "Cáceres",
+    "direccion": "Plaza Mayor, s/n",
+    "provincia": "Cáceres"
+  },
+  {
+    "ubicacion": "Calles de Baza",
+    "ciudad": "Baza",
+    "direccion": "Varias calles",
+    "provincia": "Granada"
+  },
+  {
+    "ubicacion": "Patios de Córdoba",
+    "ciudad": "Córdoba",
+    "direccion": "Varias calles",
+    "provincia": "Córdoba"
+  },
+  {
+    "ubicacion": "Plaza de San Antonio, Cádiz",
+    "ciudad": "Cádiz",
+    "direccion": "Plaza de San Antonio, s/n",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Aldea del Rocío",
+    "ciudad": "Almonte",
+    "direccion": "Varias calles",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": "Recinto Ferial de Jaén",
+    "ciudad": "Jaén",
+    "direccion": "Avenida de Granada, s/n",
+    "provincia": "Jaén"
+  },
+  {
+    "ubicacion": "Plaza Baja de la Despedía de Álora",
+    "ciudad": "Álora",
+    "direccion": "Plaza Baja de la Despedía, s/n",
+    "provincia": "Málaga"
+  },
+  {
+    "ubicacion": "Teatro Villamarta",
+    "ciudad": "Jerez de la Frontera",
+    "direccion": "Plaza Romero Martínez, s/n",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Ferial de Maro",
+    "ciudad": "Maro",
+    "direccion": "Calle San Miguel, s/n",
+    "provincia": "Málaga"
+  },
+  {
+    "ubicacion": "Parque González Hontoria",
+    "ciudad": "Jerez de la Frontera",
+    "direccion": "Av. Alcalde Álvaro Domecq, s/n",
+    "provincia": "Cádiz"
+  },
+  {
+    "ubicacion": "Ermita del Rocío, Almonte, Huelva",
+    "ciudad": "Almonte",
+    "direccion": "Camino de la Ermita, s/n",
+    "provincia": "Huelva"
+  },
+  {
+    "ubicacion": "Playa de Valdearenas",
+    "ciudad": "Huelva",
+    "direccion": "Playa de Valdearenas, s/n",
+    "provincia": "Huelva"
+  }
+]

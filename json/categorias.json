@@ -1,0 +1,86 @@
+[
+  {
+    "categoria": "Evento Cultural",
+    "informacion": "Promoción del arte y la cultura local.",
+    "caracteristicas": "Participación de artistas reconocidos a nivel nacional e internacional.",
+    "impacto": "Fomento del turismo cultural y enriquecimiento de la vida cultural de la comunidad."
+  },
+  {
+    "categoria": "Fiesta Tradicional",
+    "informacion": "Preservación de la identidad y las tradiciones locales.",
+    "caracteristicas": "Transmisión de conocimientos y valores culturales de generación en generación.",
+    "impacto": "Fortalecimiento del sentido de pertenencia y cohesión social."
+  },
+  {
+    "categoria": "Fiesta Religiosa",
+    "informacion": "Expresión de la fe y devoción de la comunidad.",
+    "caracteristicas": "Celebración de eventos sagrados y rituales significativos para la religión local.",
+    "impacto": "Promoción de la solidaridad y la fraternidad entre los creyentes."
+  },
+  {
+    "categoria": "Carnaval",
+    "informacion": "Celebración del espíritu festivo y la creatividad.",
+    "caracteristicas": "Desfiles coloridos, disfraces extravagantes y música contagiosa.",
+    "impacto": "Generación de un ambiente de alegría y diversión para personas de todas las edades."
+  },
+  {
+    "categoria": "Romería del Rocío",
+    "informacion": "Manifestación de la fe y devoción hacia la Virgen del Rocío.",
+    "caracteristicas": "Peregrinación multitudinaria a través de paisajes naturales emblemáticos.",
+    "impacto": "Vivencia de experiencias espirituales y de encuentro comunitario."
+  },
+  {
+    "categoria": "Feria",
+    "informacion": "Celebración de la cultura local y la tradición festiva.",
+    "caracteristicas": "Variedad de actividades lúdicas, gastronómicas y culturales para todos los públicos.",
+    "impacto": "Dinamización económica y promoción del comercio local."
+  },
+  {
+    "categoria": "Feria Gastronómica",
+    "informacion": "Exaltación de la gastronomía local y regional.",
+    "caracteristicas": "Degustación de platos típicos y productos de alta calidad culinaria.",
+    "impacto": "Promoción del turismo gastronómico y la valorización de la cocina local."
+  },
+  {
+    "categoria": "Carrera",
+    "informacion": "Promoción de la actividad física y el deporte.",
+    "caracteristicas": "Desafío personal y superación de límites individuales.",
+    "impacto": "Fomento de un estilo de vida saludable y la integración social a través del deporte."
+  },
+  {
+    "categoria": "Fiesta Gastronómica",
+    "informacion": "Celebración de la riqueza culinaria y gastronómica de la región.",
+    "caracteristicas": "Degustación de platos tradicionales y productos locales de alta calidad.",
+    "impacto": "Difusión de la cultura alimentaria y promoción del patrimonio gastronómico."
+  },
+  {
+    "categoria": "Semana Santa",
+    "informacion": "Conmemoración de la Pasión, Muerte y Resurrección de Jesucristo.",
+    "caracteristicas": "Procesiones solemnes, pasos procesionales y música sacra.",
+    "impacto": "Manifestación de la fe religiosa y la devoción popular."
+  },
+  {
+    "categoria": "Romería de Cabeza",
+    "informacion": "Ritual de peregrinación hacia un lugar sagrado o venerado.",
+    "caracteristicas": "Participación activa de la comunidad local en la organización y desarrollo de la romería.",
+    "impacto": "Fortalecimiento de la identidad cultural y la cohesión comunitaria."
+  },
+  {
+    "categoria": "Festival",
+    "informacion": "Celebración de la diversidad cultural y artística.",
+    "caracteristicas": "Presentación de espectáculos, conciertos y actividades culturales de gran calidad.",
+    "impacto": "Promoción del turismo cultural y la dinamización de la vida cultural de la región."
+  },
+  {
+    "categoria": "Carrera de Caballos",
+    "informacion": "Tradición ecuestre y competición deportiva.",
+    "caracteristicas": "Espectáculo de velocidad y destreza equina.",
+    "impacto": "Promoción del mundo ecuestre y dinamización económica en la zona."
+  },
+  {
+    "categoria": "Concierto",
+    "informacion": "Experiencia musical en vivo y en directo.",
+    "caracteristicas": "Interpretación de obras musicales por artistas destacados.",
+    "impacto": "Fomento de la cultura musical y el entretenimiento cultural."
+  }
+]
